@@ -17,7 +17,7 @@ def handle_game_proc(message):
             return False
 
 
-bot = telebot.TeleBot("5842715470:AAFVwXaLAXH0fLhx-_YMrX3RKeGZpjepOW8")
+bot = telebot.TeleBot("####################################")
 
 
 @bot.message_handler(commands=['start'])
